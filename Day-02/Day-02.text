@@ -1,0 +1,28 @@
+Day-02[28-03-2023]:
+===================
+	Good Morning to All....
+	
+	variable assignments:
+		- single variable with single value
+		- n number of varaibles equal to n number of values
+		- n variables equal to single value
+
+	input and output formatting
+	type method
+	typecasting
+	Operators
+	Keywords or Reserved words
+	Conditional statements Overview
+		- if
+		- if-else
+		- nested if
+		- elif
+
+Task:
+=====
+	- Loops
+	- Jumping statements
+	- Nested Loops or Inner Loops
+	- Functions and its types
+	- User Defined function types
+	- Functions argument types
