@@ -13,3 +13,8 @@ Python For First Years
   - Input and Output formatting
   - Keywords and Operators types
   - Conditional Statements Overview and explained example on if
+
+# Day-03(29-03-2023):
+  - Conditional Statements like if-else,nested if and elif with sample examples on each
+  - Loops,range overview and sample examples on each
+  - Jumping statements with sample examples on each
