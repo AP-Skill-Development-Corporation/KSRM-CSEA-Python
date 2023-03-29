@@ -1,0 +1,111 @@
+Day-03[29-03-2023]:
+===================
+	Good Morning to All..
+
+	Loops Overview and sample examples on each
+	Range with sample examples
+	Jumping statements with sample examples on each
+
+Task:
+=====
+	Concepts:
+	=========
+		- Inner Loops
+		- Functions and its types
+		- Argument Types
+		- All Data Structures[List,Tuple,Set,String and Dictionary] Overview
+
+	Problems:
+	=========
+	1:
+		Input:
+			5
+			12
+		Output:
+			229Y1A0505
+			229Y1A0506
+			229Y1A0507
+			229Y1A0508
+			229Y1A0509
+			229Y1A0510
+			229Y1A0511
+
+	2:
+		Input:
+			2
+			8
+		Output:
+			229Y1A0502	219Y1A0502
+			229Y1A0503	219Y1A0503
+			229Y1A0504	219Y1A0504
+			229Y1A0505	219Y1A0505
+			229Y1A0506	219Y1A0506
+			229Y1A0507	219Y1A0507
+			229Y1A0508	219Y1A0508
+
+	3:
+		Input:
+			2
+			8
+		Output:
+			229Y1A0502	219Y1A0508
+			229Y1A0503	219Y1A0507
+			229Y1A0504	219Y1A0506
+			229Y1A0505	219Y1A0505
+			229Y1A0506	219Y1A0504
+			229Y1A0507	219Y1A0503
+			229Y1A0508	219Y1A0502
+
+	4:
+		Input:
+			15987
+		Output:
+			Given number is: 15987
+			Reverse of 15987 is: 78951
+
+	5:
+		Input:
+			14785
+		Output:
+			Given number is: 14785
+			Reverse of Left half number for 14785 is: 41785
+			Reverse of Right half number for 14785 is: 14758
+
+		Input:
+			4859
+		Output:
+			Given number is: 4859
+			Reverse of Left half number for 4859 is: 8459
+			Reverse of Right half number for 4859 is: 4895
+
+	6:
+		Input:
+			14986
+		Output:
+			Given number is: 14986
+			Even numbers in 14986 is: 4 8 6
+			Sum of even numbers in 14986 is: 18
+			Count of even numbers in 14986 is: 3
+
+		Input:
+			183642
+		Output:
+			Given number is: 183642
+			Even numbers in 183642 is: 8 6 4 2
+			Sum of even numbers in 183642 is: 20
+			Count of even numbers in 183642 is: 4
+
+	7:
+		Input:
+			485968
+			5
+		Output:
+			Given number is: 485968
+			After using 5 the numbers are: 8 6 9
+
+		Input:
+			485968
+			2
+		Output:
+			Given number is: 485968
+			2 doesnt exist in 485968
