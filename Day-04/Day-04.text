@@ -1,0 +1,35 @@
+Day-04[31-03-2023]:
+===================
+	Good Morning to All..
+
+	Inner Loops
+	Functions and its types
+	User Defined Types 
+	Function argument types
+
+Task:
+=====
+	1.
+		Input:
+			4
+		Output:
+			A1 A2 A3 A4
+			B1 B2 B3 B4
+			C1 C2 C3 C4
+			D1 D2 D3 D4
+
+		Input:
+			3
+		Output:
+			A1 A2 A3
+			B1 B2 B3
+			C1 C2 C3
+
+	2.
+		Implement reverse logic for Day-03 task for even number check and digit exists in a number or not?
+
+	3.
+		Study Previous Concepts from Day-01 to Still now for exam
+
+
+
