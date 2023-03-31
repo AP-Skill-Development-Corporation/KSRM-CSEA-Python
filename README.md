@@ -18,3 +18,11 @@ Python For First Years
   - Conditional Statements like if-else,nested if and elif with sample examples on each
   - Loops,range overview and sample examples on each
   - Jumping statements with sample examples on each
+
+# Day-04(31-03-2023):
+  - Inner Loops with sample examples on each
+  - Function and its types
+  - User Defined functions types with sample examples on each
+  - Argument types with sample examples on each [default,required,keyword]
+
+  
