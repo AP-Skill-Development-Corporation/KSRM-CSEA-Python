@@ -25,4 +25,7 @@ Python For First Years
   - User Defined functions types with sample examples on each
   - Argument types with sample examples on each [default,required,keyword]
 
-  
+# Day-05(01-04-2023):
+  - Variable-Length argument types with sample examples on each
+  - Data Structures Overview like (List,tuple,set,string and dictionary)
+  - Data Structures methods explanation with sample examples on each
